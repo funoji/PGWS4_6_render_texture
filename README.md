@@ -14,7 +14,7 @@
 ## 自分なりにかっこいいシーン
 ![結果画像](MyBest.gif)
 
-![シェーダグラフ](My_node_graph.png)
+![シェーダグラフ](MyNodeGraph.png)
 
 # 自分なりに変更した点
 -

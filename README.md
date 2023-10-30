@@ -12,9 +12,9 @@
 ![結果画像4](result4.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
+![結果画像](MyBest.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](My_node_graph.png)
 
 # 自分なりに変更した点
 -
